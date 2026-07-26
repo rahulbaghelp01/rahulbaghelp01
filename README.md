@@ -70,7 +70,7 @@ REST APIs and backend projects built while learning Node.js, Express, and Postgr
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=rahulbaghelp01&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -78,9 +78,9 @@ REST APIs and backend projects built while learning Node.js, Express, and Postgr
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- LinkedIn: *(Add your LinkedIn profile here)*
-- Email: *(Add your email here)*
+- GitHub: https://github.com/rahulbaghelp01
+- LinkedIn: (https://www.linkedin.com/in/rahulbagheldeveloper/)
+- Email: rahulbaghelp01@gmail.com 
 
 ---
 
