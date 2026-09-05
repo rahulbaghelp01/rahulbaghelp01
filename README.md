@@ -51,8 +51,7 @@ A location-based restaurant discovery app for browsing nearby restaurants and sa
 ---
 
 ## GitHub Stats
-
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulbaghelp01&show_icons=true&theme=tokyonight&hide_border=true)
+ 
  
 ![GitHub Streak](https://streak-stats.demolab.com?user=rahulbaghelp01&theme=tokyonight&hide_border=true)
 
