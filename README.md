@@ -41,7 +41,7 @@ A full-stack Pokémon-inspired game with JWT authentication, a Postgres/Prisma d
 
 [Live Demo](https://pok-mon-carmine.vercel.app/) · [Repository](https://github.com/rahulbaghelp01/Pok-mon-Carmine)
 
-### Restaurant Finder
+### Zonely
 A location-based restaurant discovery app for browsing nearby restaurants and saving favourites, with multi-page routing and global state handled through React Context.
 
 `React` `React Router` `Context API` `Tailwind CSS` `External APIs`
@@ -53,7 +53,7 @@ A location-based restaurant discovery app for browsing nearby restaurants and sa
 ## GitHub Stats
 
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulbaghelp01&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbaghelp01&layout=compact&theme=tokyonight&hide_border=true)
+ 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rahulbaghelp01&theme=tokyonight&hide_border=true)
 
 ---
