@@ -1,93 +1,65 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
+# Rahul Baghel
 
-<h3 align="center">
-Self-taught Developer passionate about building real-world web applications.
-</h3>
+Frontend-focused developer building full-stack web applications with React and Node.js. Based in New Delhi, India.
 
-<p align="center">
-Building today for the opportunities of tomorrow.<br>
-I believe consistency beats talent, and every repository here reflects something new I've learned or challenged myself to create.
-</p>
+[LinkedIn](https://www.linkedin.com/in/rahulbagheldeveloper/) · [Email](mailto:rahulbaghelp01@gmail.com)
 
 ---
 
-## 🚀 About Me
+## About
 
-- 💻 Self-taught Developer learning by building real-world projects
-- 🌱 Currently learning **Backend Development, Node.js, Express & PostgreSQL**
-- ⚛️ Building modern web applications with **JavaScript & React**
-- 🎯 Working towards becoming a Full-Stack Developer
-- 💼 Open to **Internship** and **Full-Time Opportunities**
-- 📚 Always learning something new
+I'm a self-taught developer who learns primarily by building complete, working projects rather than isolated exercises. My focus is on React and modern JavaScript on the frontend, with growing experience in Node.js, Express, and PostgreSQL on the backend.
 
----
+I care about interfaces that feel considered — clean structure, sensible state management, and small interaction details that make an app feel finished rather than just functional. Lately that's meant exploring animation with GSAP and 3D rendering with Three.js alongside more conventional full-stack work.
 
-## 🛠️ Tech Stack
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-
-</p>
+I'm currently looking for frontend developer, React developer, or internship opportunities where I can keep building on that foundation.
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-### 🍽️ Zonely
-A location-based restaurant discovery application built with React.
+**Frontend**
+React · JavaScript · Redux Toolkit · React Router · Tailwind CSS · GSAP
 
-### 🐱 Pokémon Explorer
-A responsive Pokémon browser built using React and the PokéAPI.
+**Backend & Database**
+Node.js · Express · PostgreSQL · Prisma
 
-### 🔐 Backend Learning
-REST APIs and backend projects built while learning Node.js, Express, and PostgreSQL.
+**3D & Animation**
+Three.js · React Three Fiber
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+**Tools**
+Git · GitHub · Vite · Docker
 
 ---
 
-## 📈 GitHub Streak
+## Featured Projects
 
-<p align="center">
+### Pokémon Carmine
+A full-stack Pokémon-inspired game with JWT authentication, a Postgres/Prisma data layer, and an interactive catching mechanic. Includes a 3D Pokéball built with React Three Fiber and GSAP-driven animations throughout.
 
-<img src="https://streak-stats.demolab.com?user=rahulbaghelp01&theme=tokyonight&hide_border=true"/>
+`React` `Redux` `Node.js` `Express` `PostgreSQL` `Prisma` `Three.js` `React Three Fiber` `GSAP`
 
-</p>
+[Live Demo](https://pok-mon-carmine.vercel.app/) · [Repository](https://github.com/rahulbaghelp01/Pok-mon-Carmine)
 
----
+### Restaurant Finder
+A location-based restaurant discovery app for browsing nearby restaurants and saving favourites, with multi-page routing and global state handled through React Context.
 
-## 📫 Connect With Me
+`React` `React Router` `Context API` `Tailwind CSS` `External APIs`
 
-- GitHub: https://github.com/rahulbaghelp01
-- LinkedIn: (https://www.linkedin.com/in/rahulbagheldeveloper/)
-- Email: rahulbaghelp01@gmail.com 
-
----
-
-## 💭 Quote
-
-> **"Building today for the opportunities of tomorrow. I believe consistency beats talent, and every commit is a step toward becoming a better developer."**
+[Repository](https://github.com/rahulbaghelp01/Restaurant-Finder)
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+## GitHub Stats
+
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulbaghelp01&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbaghelp01&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=rahulbaghelp01&theme=tokyonight&hide_border=true)
+
+---
+
+## Get in Touch
+
+- GitHub: [@rahulbaghelp01](https://github.com/rahulbaghelp01)
+- LinkedIn: [in/rahulbagheldeveloper](https://www.linkedin.com/in/rahulbagheldeveloper/)
+- Email: [rahulbaghelp01@gmail.com](mailto:rahulbaghelp01@gmail.com)
