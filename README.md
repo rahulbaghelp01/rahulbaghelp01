@@ -1,6 +1,6 @@
 # Rahul Baghel
 
-Frontend-focused developer building full-stack web applications with React and Node.js. Based in New Delhi, India.
+PERN Stack Developer building full-stack web applications with React, TypeScript, Node.js, and PostgreSQL. Based in New Delhi, India.
 
 [LinkedIn](https://www.linkedin.com/in/rahulbagheldeveloper/) · [Email](mailto:rahulbaghelp01@gmail.com)
 
@@ -8,57 +8,20 @@ Frontend-focused developer building full-stack web applications with React and N
 
 ## About
 
-I'm a self-taught developer who learns primarily by building complete, working projects rather than isolated exercises. My focus is on React and modern JavaScript on the frontend, with growing experience in Node.js, Express, and PostgreSQL on the backend.
+I'm a self-taught developer focused on building complete web applications, from interactive frontend interfaces to backend APIs and database integration.
 
-I care about interfaces that feel considered — clean structure, sensible state management, and small interaction details that make an app feel finished rather than just functional. Lately that's meant exploring animation with GSAP and 3D rendering with Three.js alongside more conventional full-stack work.
+I enjoy working with React and modern JavaScript, while expanding my backend skills with Node.js, Express, TypeScript, and PostgreSQL. I learn by building real projects and improving how I structure, connect, and maintain applications.
 
-I'm currently looking for frontend developer, React developer, or internship opportunities where I can keep building on that foundation.
+I'm looking for opportunities to contribute to real-world software projects and grow as a software engineer.
 
 ---
 
 ## Tech Stack
 
-**Frontend**
-React · JavaScript · Redux Toolkit · React Router · Tailwind CSS · GSAP
+**Frontend:** React · JavaScript · TypeScript · Redux Toolkit · React Router · Tailwind CSS
 
-**Backend & Database**
-Node.js · Express · PostgreSQL · Prisma
+**Backend:** Node.js · Express.js · REST APIs
 
-**3D & Animation**
-Three.js · React Three Fiber
+**Database:** PostgreSQL · Prisma
 
-**Tools**
-Git · GitHub · Vite · Docker
-
----
-
-## Featured Projects
-
-### Pokémon Carmine
-A full-stack Pokémon-inspired game with JWT authentication, a Postgres/Prisma data layer, and an interactive catching mechanic. Includes a 3D Pokéball built with React Three Fiber and GSAP-driven animations throughout.
-
-`React` `Redux` `Node.js` `Express` `PostgreSQL` `Prisma` `Three.js` `React Three Fiber` `GSAP`
-
-[Live Demo](https://pok-mon-carmine.vercel.app/) · [Repository](https://github.com/rahulbaghelp01/Pok-mon-Carmine)
-
-### Zonely
-A location-based restaurant discovery app for browsing nearby restaurants and saving favourites, with multi-page routing and global state handled through React Context.
-
-`React` `React Router` `Context API` `Tailwind CSS` `External APIs`
-
-[Repository](https://github.com/rahulbaghelp01/Restaurant-Finder)
-
----
-
-## GitHub Stats
- 
- 
-![GitHub Streak](https://streak-stats.demolab.com?user=rahulbaghelp01&theme=tokyonight&hide_border=true)
-
----
-
-## Get in Touch
-
-- GitHub: [@rahulbaghelp01](https://github.com/rahulbaghelp01)
-- LinkedIn: [in/rahulbagheldeveloper](https://www.linkedin.com/in/rahulbagheldeveloper/)
-- Email: [rahulbaghelp01@gmail.com](mailto:rahulbaghelp01@gmail.com)
+**Tools & Libraries:** Git · GitHub · Vite · Docker · GSAP · Three.js · React Three Fiber
